@@ -2,7 +2,7 @@
 
 ##Reading/Printing
 
-If you would like to read or print the guide, it is recommended that you download the compressed PDF version of the most recent revision (REV - is the release, REV A is the first revision, etc.). You uncompress the file as you would any other zip.
+If you would like to read or print the guide, it is recommended that you download the PDF version (potentially compressed) of the most recent revision (REV - is the release, REV A is the first revision, etc.). You uncompress the file as you would any other zip.
 
 ##Editing
 
